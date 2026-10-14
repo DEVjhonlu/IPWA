@@ -1,0 +1,8 @@
+{
+  "appId": "com.seunome.doom",
+  "appName": "DOOM Online",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
